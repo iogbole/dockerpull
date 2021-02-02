@@ -9,4 +9,4 @@ do
     docker pull appdynamicscx/mark-nodes-historical
     docker image rm appdynamicscx/mark-nodes-historical
 done
-for
+
