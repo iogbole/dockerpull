@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: pull Docker Image
-      run: |
+        run: |
           echo Running docker image
           ls -ltr
           ./run.sh
